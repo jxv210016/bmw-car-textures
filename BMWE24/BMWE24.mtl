@@ -1,0 +1,14 @@
+# Blender 3.6.17 MTL File: 'BMWE24.blend'
+# www.blender.org
+
+newmtl rustyred.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd bmwe24green/bmwe24_Base_color.png
+map_Ns bmwe24green/bmwe24_Roughness.png
+map_refl bmwe24green/bmwe24_Metallic.png
+map_d bmwe24green/bmwe24_Opacity.png
+map_Bump -bm 1.000000 bmwe24green/bmwe24_Normal.png
